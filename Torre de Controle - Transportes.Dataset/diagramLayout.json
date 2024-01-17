@@ -1,0 +1,435 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1205.9408841264185,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 430.00000000000011,
+            "y": 187.14285714285714
+          },
+          "nodeIndex": "fato_carta_frete",
+          "size": {
+            "height": 195.079365079365,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 438.25555555555553,
+            "y": 5.7142857142857153
+          },
+          "nodeIndex": "fato_cte",
+          "nodeLineageTag": "f83e7af1-923c-4a9f-a6b1-2727bf4ad649",
+          "size": {
+            "height": 147.46031746031747,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 426.98730158730154,
+            "y": 430.15873015873024
+          },
+          "nodeIndex": "fato_nf",
+          "size": {
+            "height": 172.85714285714278,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 928.25396825396831
+          },
+          "nodeIndex": "dimROMANEIO",
+          "nodeLineageTag": "042c53e9-6044-4607-8f3e-ec4371797e0a",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 1918.7285714285715,
+            "y": 267.14285714285711
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "ae24bc23-f045-413f-95de-da20baf80994",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 1.2777777777777573,
+            "y": 303.17460317460319
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "41e7e4a4-bdea-4131-8700-b4c9ad176954",
+          "size": {
+            "height": 161.14285714285717,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 486.66666666666657
+          },
+          "nodeIndex": "dimCLIENTES",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 633.80952380952385
+          },
+          "nodeIndex": "dimSOURCE",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 837.78571428571433,
+            "y": 419.04761904761909
+          },
+          "nodeIndex": "dimPLACA",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 1283.6968253968253,
+            "y": 1028.4126984126985
+          },
+          "nodeIndex": "dimFROTA",
+          "nodeLineageTag": "fc3f0931-4470-4ca6-905f-0f9fc37349ce",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 32
+        },
+        {
+          "location": {
+            "x": 1172.0399801587303,
+            "y": 347.61904761904759
+          },
+          "nodeIndex": "dimROTAS_DISTANCIAS",
+          "nodeLineageTag": "2bf1c1a3-1b46-4c7e-a17f-0ee0202474e3",
+          "size": {
+            "height": 296,
+            "width": 249.71428571428555
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 153.96825396825398
+          },
+          "nodeIndex": "dim_UNIDADES",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1528.8370039682541,
+            "y": 304.12698412698415
+          },
+          "nodeIndex": "dimPLACA_FROTA",
+          "size": {
+            "height": 172.28571428571422,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 775.71428571428578
+          },
+          "nodeIndex": "dimTIPO_DOC_AUX",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 2197.4571428571426,
+            "y": 272.85714285714289
+          },
+          "nodeIndex": "Rotas_sem_distancia",
+          "nodeLineageTag": "c3ad7e81-bfde-40b1-933f-dac7aaf13ce1",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 432.85714285714261,
+            "y": 628.57142857142844
+          },
+          "nodeIndex": "fato_meta_plano",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1208.7285714285715,
+            "y": 0
+          },
+          "nodeIndex": "fato_alelo",
+          "size": {
+            "height": 231.42857142857139,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 440.80000000000018,
+            "y": 797.142857142857
+          },
+          "nodeIndex": "fato_despesa_frota_plano",
+          "nodeLineageTag": "3cc0c3e6-981f-4230-b7ab-23b568074e7b",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 434.83571428571452,
+            "y": 935.71428571428589
+          },
+          "nodeIndex": "fato_despesa_carta_frete",
+          "nodeLineageTag": "7bf90f70-aecd-465e-a762-a4a55380ce59",
+          "size": {
+            "height": 129.42857142857144,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1158.4,
+            "y": 704.28571428571433
+          },
+          "nodeIndex": "fato_meta_frota",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 826.01904761904734,
+            "y": 659.047619047619
+          },
+          "nodeIndex": "dimCENTRO_CUSTO_GERENCIAL",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 30
+        },
+        {
+          "location": {
+            "x": 1535.9562499999997,
+            "y": 504.28571428571433
+          },
+          "nodeIndex": "dimCENTRO_CUSTO",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1914.3749999999998,
+            "y": 100
+          },
+          "nodeIndex": "Analises",
+          "nodeLineageTag": "8bd879ef-c8b9-4cdc-bef0-53cf62edcec8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1539.0571428571427,
+            "y": 637.142857142857
+          },
+          "nodeIndex": "dimOPERACAO",
+          "nodeLineageTag": "abfc2ca6-3a35-4e73-a7ae-703e05022990",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1916.1999999999998,
+            "y": 512.85714285714289
+          },
+          "nodeIndex": "fato_frota_dias_sem_fat",
+          "nodeLineageTag": "f0921c59-899a-44d6-8fef-8fca63475ccc",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 2481.4571428571426,
+            "y": 0
+          },
+          "nodeIndex": "dimPROP_CNPJ_CPF",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 2869.36945555499,
+            "y": 0
+          },
+          "nodeIndex": "dimPROP_RAZAO_SOCIAL",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1689.46320555499,
+            "y": 834.28571428571433
+          },
+          "nodeIndex": "dim_VEICULOS",
+          "nodeLineageTag": "cd370993-d78d-4fdf-b18f-e3dba9b15ab3",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2003.36945555499,
+            "y": 851.42857142857144
+          },
+          "nodeIndex": "dim_MERCADORIA",
+          "nodeLineageTag": "267a0354-6a75-44a2-8a46-56f7fe83b2c2",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2283.36945555499,
+            "y": 580
+          },
+          "nodeIndex": "dimMOTORISTA",
+          "nodeLineageTag": "a8b44684-a895-4390-a192-9e976efb7c24",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 2357.6551698407038,
+            "y": 788.00000000000011
+          },
+          "nodeIndex": "dim_CONHECIMENTO_NF",
+          "nodeLineageTag": "ac97761e-85e4-4b10-97bb-0367d80964eb",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 2668.13891110998,
+            "y": 277.14285714285717
+          },
+          "nodeIndex": "dimCENTRO_CUSTO_ROMANEIO",
+          "nodeLineageTag": "d1542313-38cd-4fdc-abe7-c8cee9739a7b",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 2711.9408841264185,
+            "y": 638.57142857142867
+          },
+          "nodeIndex": "CG Inteligência Tempo",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 70,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
