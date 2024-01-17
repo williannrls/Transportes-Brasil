@@ -1,0 +1,24 @@
+DEFINE
+    MEASURE 'Medidas'[$ Despesa Frota Plano] = ABS( SUM( fato_despesa_frota_plano[DESPESA] ) )
+    MEASURE 'Medidas'[Top Despesas Frota] = RANKX( ALL( fato_despesa_frota_plano[NOME_CONTA] ) , CALCULATE( [$ Despesa Frota Plano] ) ) 
+
+/*
+SUMX(
+        TOPN(
+            8, 
+            SUMMARIZE(
+                    fato_despesa_frota_plano, 
+                    fato_despesa_frota_plano[NOME_CONTA], 
+                    "Despesa", ABS( SUM( fato_despesa_frota_plano[DESPESA] ) )
+            ),
+            [Despesa], DESC
+        ),
+        [Despesa]
+)
+*/
+
+EVALUATE
+    SUMMARIZECOLUMNS(
+        "$ Despesa Frota Plano", 'Medidas'[$ Despesa Frota Plano],
+        "Top Despesas Frota", 'Medidas'[Top Despesas Frota]
+    )
