@@ -1,6 +1,6 @@
-Painel Torre de Controle - Transportes Brasil
+Painel de estudo - Transportes
 
-Esse projeto tem o objetivo de Manter o histórico de Modificações no Relatório de Transportes.
+Esse projeto tem o objetivo de Manter o histórico de Modificações no Relatório de Transportes para fins de estudo.
 
 - Desenvolvido em Power BI
-- Autor: Pedro Ariel 
+- Autor: Willian Reanto
